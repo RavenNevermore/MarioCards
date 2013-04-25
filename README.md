@@ -8,7 +8,7 @@ MarioCards is a competitive card game for 2 to 5 players.
 
 # Goal of the Game
 
-A player of mario cards can choose to pursue one of three paths to victory. If one of those victory contidions are met by one player, the **round of play** will be completed and the game ends. Any player that has reached at least one victory condition at this time, wins the game.
+A player of Mario Cards can choose to pursue one of three paths to victory. If one of those victory conditions are met by one player, the **round of play** will be completed and the game ends. Any player that has reached at least one victory condition at this time, wins the game.
 
 * *Lone Survivor* - As soon as only one player is left with at least one life, that player wins.
 * *Runthrough* - As soon as a player has filled up his **level completion counter**, the game ends and that player wins at the end of the **last round**.
@@ -17,8 +17,11 @@ A player of mario cards can choose to pursue one of three paths to victory. If o
 
 # Table Setup
 
-Shuffle the **shop cards** and playce them on the center of the table, face down.
+Shuffle the **shop cards** and place them on the center of the table, face down. Then put a number of cards, equal to the number of players from the shop open in front, for the players to choose from.
 
+Shuffle the **event cards** and place then on the center of the table, face down. Hand out 7 cards to every player from that deck. If a player does not get a single **movement card** this way, he may redraw and put his initial cards on the discard pile.
+
+The player that does the best Mario impression ("It'se meee, Marioo") begins. The game is played in a clockwise fashion.
 
 # Contents
 
