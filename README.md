@@ -21,7 +21,47 @@ Shuffle the **shop cards** and place them on the center of the table, face down.
 
 Shuffle the **event cards** and place then on the center of the table, face down. Hand out 7 cards to every player from that deck. If a player does not get a single **movement card** this way, he may redraw and put his initial cards on the discard pile.
 
+Place the coin tokens where everybody can reach.
+
+Hand out 3 **green mushroom** cards to every player, as well as a **D20** for measuring level completion, that every player will place with the '0' facing up.
+
 The player that does the best Mario impression ("It'se meee, Marioo") begins. The game is played in a clockwise fashion.
+
+
+# Mario Start!
+
+Every player's turn consists of five phases, which a player has to complete in sequence. After a player has performed the last phase, the next player is on the turn.
+
+
+## Phase 1: Draw Cards
+
+Draw 2 cards from the event cards deck. If you have more than *12* cards afterwards, choose cards to abandon, until you have 12 cards left in your hand.
+
+
+## Phase 2: Beat the Level
+
+Through other player's turn, there may be a sequence of obstacles, that have built up in front of you. While using your movement cards and active power-ups, you can now atempt to overcome them.
+
+If an obstacle is passive (Pit, Moving Stairs, Omph!, Piranha Plant), you may choose to wait there, which will hold you back and blocks your ability to gain **level completion**, but does not kill you.
+
+**Enemy obstacles** (Goomba, Green Coopa, Red Coopa) will kill you, or steal an active red mushroom, if you don't have the ability to overcome them.
+
+If an **enemy obstacle** made you loose an active red mushroom, it will disappear, but will not count towards your **overcome obstacles** at the end of the turn. A **Red Coopa** card will void this rule, as it does not disappear, but stay there until you have overcome it next round.
+
+For every obstacle that you successfully overcame, you may now choose another player, to flip a coin for you. If the coin comes up **tails**, you gain a coin. Take a coin token and put it in front of you.
+
+
+## Phase 3: Power Up
+
+If you have Power-Ups in your hand, either from the buying them previously, or from drawing them from the event cards, you may now choose to activate as many of them as you like.
+
+Take the Power-Ups you want to activate from your hand and place them in front of you.
+
+
+## Phase 4: Shopping
+
+
+
 
 # Contents
 
