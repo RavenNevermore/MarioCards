@@ -60,7 +60,20 @@ Take the Power-Ups you want to activate from your hand and place them in front o
 
 ## Phase 4: Shopping
 
+You can use the coins you got from ovecomming obstacles, to buy more power-ups, that may help you progress further.
 
+If you choose to buy power-ups, you can now choose any of the openly displayed cards from the shop.
+
+After you bought all the cards you want, the shop display will get refilled fom the shop stack of cards.
+
+
+## Phase 5: Build Level
+
+You may now choose, to place obstacles in front of your enemys, to prevent them from advancing, or hopefully kill them.
+
+You can place up to **one obstacle per other player**.
+
+If a player has already other obstacles placed before him and you choose to place another one for them, you have to add that cards to the end of his 'level'.
 
 
 # Contents
